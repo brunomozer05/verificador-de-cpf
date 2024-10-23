@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #03060a;
+    color: #dfe7f6;
+    font: 15pt arial;
+}
+.validar{
+    margin: 2rem;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 7rem;
+    height: 2rem;
+}
+.resultado{
+    padding: 1rem;
+    background-color: #1e4183;
+    border-radius: 10px;
+}
+.input{ 
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+}
